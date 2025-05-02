@@ -4,21 +4,21 @@ This project analyzes cancer patient data from the UAE to uncover trends, suppor
 
 ---
 
-## 📌 Objectives
+## Objectives
 
-### ✅ Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Analyze **recovery rates over the years**
 - Examine **recovery rate by cancer type**
 - Investigate **impact of smoking status** on patient outcomes
 - Identify **top 5 most common cancer types** and their recovery performance
 
-### ✅ Predictive Modeling *(Planned/Next Phase)*
+### Predictive Modeling *(Planned/Next Phase)*
 - Predict **cancer stage (I, II, III, IV)** based on:
   - Demographics (Age, Gender, Nationality, Ethnicity)
   - Lifestyle factors (Smoking Status)
   - Medical history (Comorbidities, Cancer type, Weight, Height)
 
-### ✅ Clustering Analysis *(Planned/Next Phase)*
+### Clustering Analysis *(Planned/Next Phase)*
 - Apply unsupervised learning to group patients into hidden subgroups for deeper profiling.
 
 ---
@@ -34,7 +34,7 @@ This project analyzes cancer patient data from the UAE to uncover trends, suppor
 
 ---
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 
 - **Google Colab** (Jupyter environment)
 - **Python** (3.9+)
@@ -45,7 +45,7 @@ This project analyzes cancer patient data from the UAE to uncover trends, suppor
 
 ---
 
-## 🔄 Step-by-Step Workflow
+## Step-by-Step Workflow
 
 ### 1. **Data Preprocessing**
 - Replaced missing placeholders like `'N/A'`, `'#####'` with `NaN`
@@ -62,7 +62,7 @@ This project analyzes cancer patient data from the UAE to uncover trends, suppor
 
 ---
 
-## 📊 Sample Visualizations
+## Sample Visualizations
 
 - Recovery Trends Over Time  
 - Recovery Rate by Cancer Type  
@@ -71,26 +71,10 @@ This project analyzes cancer patient data from the UAE to uncover trends, suppor
 
 ---
 
-## 📬 How to Use
+## How to Use
 
 1. Open the notebook in Google Colab or Jupyter
 2. Upload your dataset or use the provided cleaned Excel file
 3. Run each cell block step-by-step to reproduce the analysis
 
----
 
-## 👩‍💼 Project Contributor
-
-- **Name**: [Your Full Name]  
-- **Role**: Data Analyst Intern  
-- **Tools**: Python, Google Colab, GitHub  
-- **Contact**: [your.email@example.com]
-
----
-
-## 📎 License
-
-This project is for educational and non-commercial use only. All medical insights derived are based on simulated or anonymized data and not intended for clinical decision-making.
-
----
-``
