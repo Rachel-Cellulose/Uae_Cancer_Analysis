@@ -6,7 +6,7 @@ To develop a machine learning solution that analyzes cancer patient data from th
 - Identify hidden patient clusters for more personalized treatment
 - Support early diagnosis and reveal actionable insights
 
-## 🔍 Research Goals
+## Research Goals
 
 ### I. Exploratory Data Analysis (EDA)
 - Analyzed recovery rates across years
