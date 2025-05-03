@@ -1,6 +1,6 @@
 # UAE Cancer Patient Data Analysis Using Machine Learning
 
-## 📌 Objective  
+## Objective  
 To develop a machine learning solution that analyzes cancer patient data from the UAE in order to:
 - Classify patient stages of cancer based on demographic, lifestyle, and medical history
 - Identify hidden patient clusters for more personalized treatment
@@ -57,7 +57,7 @@ Age, Gender, Nationality, Ethnicity, Smoking Status, Cancer Type, Weight, Height
 | 2 | Mixed gender, mostly foreign nationals |
 | 3 | Entirely female, all local nationality |
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 - Python
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn
@@ -65,13 +65,9 @@ Age, Gender, Nationality, Ethnicity, Smoking Status, Cancer Type, Weight, Height
 - imbalanced-learn (SMOTE)
 - PCA
 
-## 📁 Deliverables
+##  Deliverables
 - `cancer_modeling.ipynb`: modeling and evaluation
 - `EDA0.ipynb`: exploratory data analysis
 - Cluster visualizations
 - Final GitHub repo with version control
 
-## 🖼️ Next Steps
-- Finalize 10-slide presentation
-- Include visual summaries (EDA, model, clusters)
-- Submit project and prep for team presentation
